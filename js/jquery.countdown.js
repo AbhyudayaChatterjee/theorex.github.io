@@ -43,7 +43,7 @@ and GPL-3.0 (http://opensource.org/licenses/GPL-3.0) licenses.
           _this.options.onEnd.apply(_this);
         }
         dateData = {
-          years: 0000,
+          years: 00,
           days: 00,
           hours: 00,
           min: 00,
